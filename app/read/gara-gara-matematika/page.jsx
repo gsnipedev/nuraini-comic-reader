@@ -1,6 +1,9 @@
-"use client";
-
 import Image from "next/image";
+
+export const metadata = {
+  title: "Nuraini Comic - Gara Gara Matematika",
+  description: "Cerita 4 remaja yang belajar matematika",
+};
 
 export default function MathComic() {
   return (
