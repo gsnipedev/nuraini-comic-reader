@@ -8,7 +8,7 @@ export default function MathComic() {
       <center>
         {[...Array(12)].map((e, i) => {
           const imgSrc = `/comic/gara-gara-matematika-ep1-slide${i + 1}.webp`;
-          return <Image src={imgSrc} width={800} height={900} />;
+          return <Image src={imgSrc} width={800} height={900} key={i} />;
         })}
       </center>
     </div>
