@@ -12,9 +12,9 @@ export default function Footer() {
         </div>
       </center>
       <div className="space-y-2 py-5">
-        <p className="text-center font-black text-xl">Nuraini Comic</p>
+        <p className="text-center font-black text-xl">Mathematics Webtoon</p>
         <p className="text-center text-gray-500">
-          @2024 Nuraini Comic. All right reserved.
+          &copy;2024 Mathematics Webtoon. All right reserved.
         </p>
       </div>
     </div>

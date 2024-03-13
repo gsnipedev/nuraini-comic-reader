@@ -7,7 +7,7 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Nuraini Comic - Home",
+  title: "Mathematics Webtoon - Home",
   description: "Tempatnya baca komik gratis.",
 };
 

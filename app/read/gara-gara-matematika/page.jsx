@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 export const metadata = {
-  title: "Nuraini Comic - Gara Gara Matematika",
+  title: "Mathematics Webtoon - Gara Gara Matematika",
   description: "Cerita 4 remaja yang belajar matematika",
 };
 
